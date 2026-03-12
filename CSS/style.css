@@ -209,7 +209,7 @@ main{
         align-items: end;
     }
   .grid-container {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
   }
 
     .box-descrizione{
@@ -814,4 +814,5 @@ footer{
     font-size: 24px;
      font-family: 'Montserrat', sans-serif;
     line-height: 1.6;     
+
 }
